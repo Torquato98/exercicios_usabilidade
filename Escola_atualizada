@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos Prepara</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        header{
+            font-size: 200%;
+            color: #dfdce3;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-weight: bolder;
+            display: inline-block;
+            border: 2px solid black;
+            padding-left: 50px;
+            padding-right: 50px;
+            background-color:rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body class="bg">
+    <body style="background-color:teal">
+    <header>Cursos Profissionalizantes Prepara</header>
+    <h1 style="font-size: x-large; font-weight: bolder; text-align: center; padding-top: 60px; color: #dfdce3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Esteja sempre preparado com nossos cursos!</h1>
+    <section id="cursos";>
+
+        <h2>Cursos Oferecidos</h2>
+        <article>
+            <div id="java">
+                <h3>Curso de Java para iniciantes</h3>
+                <p>Nesse curso você aprenderá o básico para a programação na liguagem Java!</p>
+            </div>
+            <div id="unity">
+                <h3>Curso de Unity para iniciantes</h3>
+                <p>Nesse curso você aprenderá o básico para desenvolver seus primeiros jogos na ferramenta Unity!</p>
+            </div>
+            <div id="kotlin">
+                <h3>Curso de Kotlin</h3>
+                <p>Nesse curso você aprenderá a programar na linguagem Kotlin para desenvolvimento nativo Android!</p>
+            </div>
+            <div id="cplus">
+                <h3>Curso de C++</h3>
+                <p>Nesse curso você aprenderá a utilizar a linguagem C++ para programar!</p>
+            </div>
+            <div id="seguranca">
+                <h3>Curso de Segurança da Informação</h3>
+                <p>Nesse curso você aprenderá tudo sobre a segurança em apps e afins!</p>
+            </div>
+        </article>
+    </section>
+    <section>
+        <footer><a href="">Entre em contato conosco.</a></footer>
+    </section>
+</body>
+</html>
